@@ -41,8 +41,7 @@ Current forest monitoring technologies including satellite remote sensing, manne
 
 
 # Background
-This work presents a methodology for identifying and
-mapping fire and smoke using high temporal and spatial-resolution observations from an integrated two sensor (mid-wave IR and visible bands) UAS-based imaging system. The paper also presents a unique dataset of side-by-side RGB/IR imagery collected during a prescribed fire near Flagstaff, Arizona in 2021 [20]. The images are jointly labeled by two human experts with fire/no-fire and smoke/no-smoke1 labels. In additional to aerial images, data on weather information, and georeferenced pre-burn point cloud data points are included in the dataset. It is expected that the methods developed to produce the FLAME2 dataset and others to follow can facilitate fire detection and modeling, as well as fire management.
+This work presents a methodology for identifying and mapping fire and smoke patterns using high temporal and spatial-resolution observations from an integrated two sensor (mid-wave IR and visible bands) UAS-based imaging system. The paper also presents a unique dataset of side-by-side RGB/IR imagery collected during a prescribed fire near Flagstaff, Arizona in 2021 [20]. The images are jointly labeled by two human experts with fire/no-fire and smoke/no-smoke1 labels. In additional to aerial images, data on weather information, and georeferenced pre-burn point cloud data points are included in the dataset. It is expected that the methods developed to produce the FLAME2 dataset and others to follow can facilitate fire detection and modeling, as well as fire management.
 
 ![Sample of Dataset](../images/FLAME2/flame.jpg)
 
