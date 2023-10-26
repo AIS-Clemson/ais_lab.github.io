@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "AI-SEND Lab - Clemson University"
+title                    : "AIS Lab - Clemson University"
 title_separator          : "-"
-name                     : &name "AI-SEND Lab"
+name                     : &name "AIS Lab"
 description              : &description "School of Computing"
 url                      : https://ais-clemson.github.io/ais_lab.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Abolfazl Razi"
-  avatar           : "A_Razi.jpg"
-  bio              : "Room 202, 821 McMillan Rd"
+  name             : "AIS Lab"
+  avatar           : "logo_1_white.png"
+  bio              : "Room 202A, 821 McMillan Rd"
   location         : "Clemson, SC, 29631"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "iSeND-Clemson"
+  github           : "AIS-Clemson"
   google_plus      :
   keybase          :
   instagram        :
