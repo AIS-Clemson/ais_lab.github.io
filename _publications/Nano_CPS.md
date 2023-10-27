@@ -41,7 +41,7 @@ Specifically, we apply multiple sliding windows to traverse the graph and store 
 The implementation of multiple-sliding window can greatly boost the searching efficiency.
 
 
-<img src="../images/Nano/7.png" width="80%">
+<img src="../images/Nano/7.jpg" width="80%">
 
 Similar to the facial recognition, each dendritic pattern have a unique ID, and different patterns tend to have different location in feature space. This non-inverse process can accelerate the searching speed, while prevent the hard-decoding from external cyber-attacks.
 
@@ -72,6 +72,8 @@ To further integrate with supplyers and vendors, we initiated massive production
 <img src="../images/Nano/2_2.jpg" width="80%">
 
 We are also working on the security improvement using adversarial learning methods to reduce the risks of cyber-attack from different dimensions. 
+
+For the demonstration of this project, please see <a href="">this link</a>
 
 
 
